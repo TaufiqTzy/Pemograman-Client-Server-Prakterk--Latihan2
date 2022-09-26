@@ -3,7 +3,7 @@
 ### Langkah 1 :
 #### Buat proyek web menggunakan link berikut [start.spring.io](https://start.spring.io/) kemudian pilih Spring web dan kemudian bahasa java dan sesuaikan versinya dengan device (disini saya menggunakan jdk 17 kemudian isi artifactnya(saya menggunakan latihan2-service) kemudian spring bootversinya pakai yang versi 2.6.11(yang saya pakai) dan untuk grubnya isi dengan com.taufiq kemudian download dan extrack dari zip menjadi file kemudian import ke dalam apache netbean
 ### Langkah 2 :
-#### Kemudian cari proyek yang bernama LatihanServiceApplication dibawah package com.fadhel.latihan.service kemudian pada proyek itu masukkan code berikut : 
+#### Kemudian cari proyek yang bernama LatihanServiceApplication dibawah package com.taufiq.latihan2.service kemudian pada proyek itu masukkan code berikut : 
 ```java
 package com.taufiq.microservices.latihan2.service;
 
