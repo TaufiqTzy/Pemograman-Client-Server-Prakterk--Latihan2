@@ -1,5 +1,5 @@
 # Pemograman-Client-Server-Prakterk--Latihan2
-## Langkah - Langkah Membuat Latihan 1
+## Langkah - Langkah Membuat Latihan 2
 ### Langkah 1 :
 #### Buat proyek web menggunakan link berikut [start.spring.io](https://start.spring.io/) kemudian pilih Spring web dan kemudian bahasa java dan sesuaikan versinya dengan device (disini saya menggunakan jdk 17 kemudian isi artifactnya(saya menggunakan latihan2-service) kemudian spring bootversinya pakai yang versi 2.6.11(yang saya pakai) dan untuk grubnya isi dengan com.fadhel kemudian download dan extrack dari zip menjadi file kemudian import ke dalam apache netbean
 ### Langkah 2 :
