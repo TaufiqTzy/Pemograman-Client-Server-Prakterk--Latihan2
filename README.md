@@ -36,3 +36,4 @@ server.port=8010
 ### Langkah 4 :
 #### Terakhir untuk output buka chrome/browser lalu ketik local host sesuai port yang dibuat 
 #### Link : [latihan2](http://localhost:8011/hello)
+![Screenshot 2022-09-26 212031](https://user-images.githubusercontent.com/113502696/192300844-900fb50f-7a3b-4154-8655-9b81c79352f9.jpg)
