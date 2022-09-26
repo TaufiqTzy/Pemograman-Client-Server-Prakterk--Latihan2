@@ -31,7 +31,7 @@ public class Latihan2ServiceApplication {
 ### Langkah 3 :
 #### Kemudian cari proyek aplication.properties yang berada di *Other Source >> src/main/resources >> >> aplication.properties* kemudian masukkan code berikut :
 ```java
-server.port=8010
+server.port=8011
 ```
 ### Langkah 4 :
 #### Terakhir untuk output buka chrome/browser lalu ketik local host sesuai port yang dibuat 
